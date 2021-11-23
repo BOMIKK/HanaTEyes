@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\BOMI\\AndroidStudioProjects\\hanaTeyes\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_intro.xml",
+        "source": "C:\\Users\\BOMI\\AndroidStudioProjects\\hanaTeyes\\app\\src\\main\\res\\layout\\activity_intro.xml"
+    },
+    {
+        "merged": "C:\\Users\\BOMI\\AndroidStudioProjects\\hanaTeyes\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\list_layout.xml",
+        "source": "C:\\Users\\BOMI\\AndroidStudioProjects\\hanaTeyes\\app\\src\\main\\res\\layout\\list_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\BOMI\\AndroidStudioProjects\\hanaTeyes\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\BOMI\\AndroidStudioProjects\\hanaTeyes\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\BOMI\\AndroidStudioProjects\\hanaTeyes\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_transfer_popup.xml",
+        "source": "C:\\Users\\BOMI\\AndroidStudioProjects\\hanaTeyes\\app\\src\\main\\res\\layout\\activity_transfer_popup.xml"
+    }
+]

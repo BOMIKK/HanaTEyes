@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_speech"
+        android:enabled="true"
+        android:icon="@drawable/sound"
+        android:title="말하기"/>
+
+    <item
+        android:id="@+id/action_zoom"
+        android:enabled="true"
+        android:icon="@drawable/zoom_in"
+        android:title="확대 하기"/>
+
+</menu>

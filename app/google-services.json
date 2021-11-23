@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "509692961794",
+    "project_id": "hanateyes",
+    "storage_bucket": "hanateyes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509692961794:android:72e01bd3425b463d6e331b",
+        "android_client_info": {
+          "package_name": "com.example.hanateyes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509692961794-a3plfogf8nnqqh02n0vncn8ehaabkocr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClnxEIMFteREMyGOb29QMFh30HvEAZBRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509692961794-a3plfogf8nnqqh02n0vncn8ehaabkocr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

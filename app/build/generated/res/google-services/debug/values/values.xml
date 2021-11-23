@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">509692961794-a3plfogf8nnqqh02n0vncn8ehaabkocr.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">509692961794</string>
+    <string name="google_api_key" translatable="false">AIzaSyClnxEIMFteREMyGOb29QMFh30HvEAZBRc</string>
+    <string name="google_app_id" translatable="false">1:509692961794:android:72e01bd3425b463d6e331b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyClnxEIMFteREMyGOb29QMFh30HvEAZBRc</string>
+    <string name="google_storage_bucket" translatable="false">hanateyes.appspot.com</string>
+    <string name="project_id" translatable="false">hanateyes</string>
+</resources>
